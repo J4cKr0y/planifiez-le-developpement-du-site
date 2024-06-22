@@ -1,4 +1,4 @@
-# MenuMaker by Qwenta : planification du developpement du site
+# MenuMaker by Qwenta
 
 Projet
 ------
